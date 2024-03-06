@@ -17,7 +17,7 @@ const Meta = () => {
       <meta property="og:site_name" content="Raihan Hosen" />
       <meta property="og:title" content='Raihan Hosen | Portfolio' />
       <meta property="og:description" content='Web Development Company, Best Web development agency, Web Development Services, Website Development Company, Website Development Services, Website Development Bangladesh, Web Development Bangladesh, Company, Services, Bangladesh, Flexsin, Flexsin Technologies' />
-      <meta property="og:url" content='https://raihanhosen.com/' />
+      <meta property="og:url" content='https://BarOzeri.com/' />
       <meta property="og:image" content='https://raihanhosen.com/images/raihanhosen.png' />
       <meta property="og:type" content="website" />
 
