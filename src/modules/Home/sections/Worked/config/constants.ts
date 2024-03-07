@@ -8,7 +8,7 @@ export const worked_data : WorkedTypes[] = [
       description : [
          "Execute projects in agile methodology including business analysis processes of the RTGS (Zahav) system",
          "Led to increase in operational efficiency by automating reports producing",
-         "Constantly engaged in all aspects of projects, from planning to QA, improving organizational work plans and collaborating with development teams.",
+         "Constantly engaged in all aspects of projects, from planning to QA, improving organizational work plans and collaborating with development teams."
       ],
       deadline : "2022 - Present",
       title: "Business Analyst",
