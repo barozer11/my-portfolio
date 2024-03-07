@@ -11,7 +11,7 @@ export const navData = [ "About", "Experience", "Works", "Contact" ]
 export const projects : ProjectTypes[] = [
     {
         title : "Smart - Ways",
-        description : "",
+        description : "Characterization of an information system, analysis of the information system using DFD diagrams, design of the information system using pseudo code, while working through the LEAN START UP methodology which includes a repeated process of learning, measuring, and building the MVP",
         tech : [ "HTML", "CSS", "JavaScript", "FireBase" ],
         code : '',
         live : '',
@@ -21,7 +21,7 @@ export const projects : ProjectTypes[] = [
 
     {
         title : "Power BI",
-        description : "",
+        description : " designed and builded a data warehouse system for business analysis. involving analyzing business needs, designing the data schema, implementing the warehouse in SQL Server, and creating visualizations in Power BI. considering efficiency and strategies for handling changing data over time.",
         tech : [ "Dax", "SQL" ],
         live : '',
         thumnail : "powerbi.png",
@@ -30,7 +30,7 @@ export const projects : ProjectTypes[] = [
 
     {
         title : "Zoho Creator Platform",
-        description : "",
+        description : "designing, developing, and deploying an information system using Zoho Creator. addressing a specific business problem by following a standard methodology, including requirements gathering, design, development, testing, deployment, and user documentation.",
         tech : [ "Deluge", "" ],
         code : '',
         live : '',
@@ -40,7 +40,7 @@ export const projects : ProjectTypes[] = [
 
     {
         title : "Machine Learning",
-        description : "",
+        description : "data analysis, model development, and evaluation.  analyzing the data, develop multiple models using different algorithms, and compare their performance. evaluating the accuracy, feature importance, and economic viability of the best model.",
         tech : [ "Rstuido"],
         live : '',
         thumnail : "mlmodel.png",
