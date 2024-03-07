@@ -21,22 +21,23 @@ export const worked_data : WorkedTypes[] = [
       description : [
         "Intensive and challenging position, requiring precise deadlines in front of an audience while providing a quick response to unexpected situations in the field."
       ],
-      deadline : "March 22 - Nov 23",
+      deadline : "2019 - 2022",
       title: "Security officer",
       company : "Ministry of Justice",
-      url : "https://digitalgregg.com",
+      url : "",
    },
    { 
       id: 2,
       label : "Education",
       description : [
-        "Write modern, performant, maintainable code for a diverse array of client and internal projects",
-        "Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Socket.io, Next js, React, WordPress, and Netlify",
-        "Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis",
+        "Developed an information system web app using JS and the TSP algorithm.",
+        "Deep understanding of system analytics through various projects, including SQL database design and operation research.",
+        "Planned and characterized an information system on the Zoho Creator platform.",
+        "GPA 86."
       ],
-      deadline : "Aug 21 - present",
-      title: "Full stack developer",
-      company : "",
+      deadline : "2020 - present",
+      title: "BSc. Industrial & Management Engineer,",
+      company : "Azrieli College",
       url : "",
    },
    { 
@@ -47,7 +48,7 @@ export const worked_data : WorkedTypes[] = [
          "Work under pressure, responsible for usage and operations of military equipment worth millions of dollars"
       ],
       deadline : "2014 - 2017",
-      title: "Combat Fighter in `Shimshon` battalion ",
+      title: 'Combat Fighter in "Shimshon" battalion ',
       company : "",
       url : "",
    },
@@ -63,4 +64,15 @@ export const worked_data : WorkedTypes[] = [
       company : "",
       url : "",
    },
+   { 
+      id: 5,
+      label : "Voluntary experience",
+      description : [
+        "Food saving and reusing."
+      ],
+      deadline : "2022 - Present",
+      title: '"Matzilot Hamazon" Organization',
+      company : "",
+      url : "",
+   }
 ]
