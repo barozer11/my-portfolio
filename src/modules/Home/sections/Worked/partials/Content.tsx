@@ -67,7 +67,7 @@ const Content = () => {
                  <motion.div variants={worked_1} {...motionStep} >
                      <h1 className='text-xl font-medium text-slate-300' > 
                          {title} 
-                         <Link target='_blank' href={url} className='text-sky-300 border-b border-b-sky-300 border-dotted' > {company} </Link> 
+                         <h1 className='text-sky-300 border-b border-b-sky-300 border-dotted'> {company} </h1>  
                      </h1>
                      <p className='text-slate-400 font-medium mt-1' > {deadline} </p>      
                  </motion.div>
