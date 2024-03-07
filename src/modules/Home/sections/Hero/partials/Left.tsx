@@ -32,7 +32,8 @@ const Left = () => {
 
             <div className='my-5 md:my-8 leading-7 text-slate-400 md:text-lg max-w-3xl' >
                <AnimatedTextWord 
-                  text="expertise in leading projects, implementing systems, embracing new technologies and understanding processes and web technologies. •	Proficient in data retrieval, JavaScript, HTML, and CSS. Exceptional technical and strong problem solving skills."
+                  text="expertise in leading projects, implementing systems, embracing new technologies and understanding processes and web technologies.
+                  Proficient in data retrieval, JavaScript, HTML, and CSS. Exceptional technical and strong problem solving skills."
                   className='text-sm sm:text-lg justify-center lg:justify-start'
                />
             </div>
