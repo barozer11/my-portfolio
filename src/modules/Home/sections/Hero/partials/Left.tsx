@@ -26,13 +26,13 @@ const Left = () => {
                />
                <AnimatedTextCharacter 
                   className='font-medium text-sm sm:text-[1.6rem] tracking-normal md:text-[2rem] text-slate-400 mt-1 justify-center lg:justify-start' 
-                  text="Who Transform Ideas into Web Wonders" 
+                  text="Passionate in the field of Information Systems" 
                />
             </div>
 
             <div className='my-5 md:my-8 leading-7 text-slate-400 md:text-lg max-w-3xl' >
                <AnimatedTextWord 
-                  text="Highly motivated and very passionate Full Stack Developer with three years of experience in Typescript, React js, Next js, Firebase, Tailwind CSS, Material UI, Node js, Express js, MongoDB"
+                  text="expertise in leading projects, implementing systems, embracing new technologies and understanding processes and web technologies. •	Proficient in data retrieval, JavaScript, HTML, and CSS. Exceptional technical and strong problem solving skills."
                   className='text-sm sm:text-lg justify-center lg:justify-start'
                />
             </div>
