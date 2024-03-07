@@ -34,14 +34,14 @@ export const projects : ProjectTypes[] = [
         tech : [ "Deluge", "" ],
         code : '',
         live : '',
-        thumnail : "zohocreator.png",
+        thumnail : "zohohcreator.png",
         featured : true
     },
 
     {
         title : "Machine Learning",
         description : "",
-        tech : [ "Rstuido", "tailwind CSS", "Redux", "Node js" ],
+        tech : [ "Rstuido"],
         live : '',
         thumnail : "mlmodel.png",
         featured : true
